@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Medicina</string>
+    <string name="app_titulo">Ingreso Medicina</string>
+    <string name="app_get">Consultar</string>
+    <string name="app_post">Ingresar</string>
+    <string name="app_put">Actualizar</string>
+    <string name="app_delete">Borrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="costo">Costo:</string>
+    <string name="tabletas">Tabletas:</string>
+</resources>
